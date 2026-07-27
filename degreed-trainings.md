@@ -1,6 +1,9 @@
 77fde367-5f90-4ce1-9e48-01c326d409c9
 
 
+### Anthropic - AI Learning Offer AIC
+[Anthropic - AI Learning Offer AIC](https://degreed.com/plan/3789070)
+
 ### Core Generative AI (Beginner)
 
 Assesement link: https://degreed.com/plan/2983559 
