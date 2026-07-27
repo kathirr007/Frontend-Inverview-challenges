@@ -4,6 +4,27 @@
 ### Anthropic - AI Learning Offer AIC
 [Anthropic - AI Learning Offer AIC](https://degreed.com/plan/3789070)
 
+#### [Level 0 - AI Foundation with Anthropic AIC](https://degreed.com/plan/3808536?newWindow=true)
+1. https://anthropic-partners.skilljar.com/ai-fluency-framework-foundations
+2. https://anthropic-partners.skilljar.com/claude-101
+
+#### [Level 1 - AI Savvy with Anthropic AIC](https://degreed.com/plan/3808539?newWindow=true)
+1. [https://anthropic-partners.skilljar.com/ai-fluency-framework-foundations](https://anthropic-partners.skilljar.com/introduction-to-claude-cowork)
+2. [https://anthropic-partners.skilljar.com/claude-101](https://anthropic-partners.skilljar.com/claude-code-101)
+3. [https://www.anthropic.com/webinars/cowork-workshop-foundations](https://www.anthropic.com/webinars/cowork-workshop-foundations)
+
+#### [Level 2 - AI Practitioner with Anthropic AIC](https://degreed.com/plan/3808540?newWindow=true)
+1. [claude-code-in-action](https://anthropic-partners.skilljar.com/claude-code-in-action)
+2. [introduction-to-agent-skills](https://anthropic-partners.skilljar.com/introduction-to-agent-skills)
+3. [introduction-to-subagents](https://anthropic-partners.skilljar.com/introduction-to-subagents)
+
+#### [Level 3 - AI Advanced with Anthropic AIC](https://degreed.com/plan/3808543?newWindow=true)
+1. [claude-with-the-anthropic-api](https://anthropic-partners.skilljar.com/claude-with-the-anthropic-api)
+2. [introduction-to-model-context-protoco](https://anthropic-partners.skilljar.com/introduction-to-model-context-protoco)
+3. [model-context-protocol-advanced-topics](https://anthropic-partners.skilljar.com/model-context-protocol-advanced-topics)
+4. [claude-in-amazon-bedrock](https://anthropic-partners.skilljar.com/claude-in-amazon-bedrock)
+5. [claude-with-google-vertex](https://anthropic-partners.skilljar.com/claude-with-google-vertex)
+
 ### Core Generative AI (Beginner)
 
 Assesement link: https://degreed.com/plan/2983559 
