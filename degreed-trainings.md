@@ -5,11 +5,11 @@
 [Anthropic - AI Learning Offer AIC](https://degreed.com/plan/3789070)
 
 #### [Level 0 - AI Foundation with Anthropic AIC](https://degreed.com/plan/3808536?newWindow=true) -- Completed
-1. https://anthropic-partners.skilljar.com/ai-fluency-framework-foundations -- completed
-2. https://anthropic-partners.skilljar.com/claude-101 -- completed
+1. [ai-fluency-framework-foundations](https://anthropic-partners.skilljar.com/ai-fluency-framework-foundations) -- completed
+2. [claude-101](https://anthropic-partners.skilljar.com/claude-101) -- completed
 
 #### [Level 1 - AI Savvy with Anthropic AIC](https://degreed.com/plan/3808539?newWindow=true) -- Completed
-1. [ai-fluency-framework-foundations](https://anthropic-partners.skilljar.com/introduction-to-claude-cowork) -- completed
+1. [introduction-to-claude-cowork](https://anthropic-partners.skilljar.com/introduction-to-claude-cowork) -- completed
 2. [claude-code-101](https://anthropic-partners.skilljar.com/claude-code-101) -- completed
 3. [cowork-workshop-foundations](https://www.anthropic.com/webinars/cowork-workshop-foundations) -- completed
 
