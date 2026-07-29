@@ -8,10 +8,10 @@
 1. https://anthropic-partners.skilljar.com/ai-fluency-framework-foundations -- completed
 2. https://anthropic-partners.skilljar.com/claude-101 -- completed
 
-#### [Level 1 - AI Savvy with Anthropic AIC](https://degreed.com/plan/3808539?newWindow=true)
-1. [https://anthropic-partners.skilljar.com/ai-fluency-framework-foundations](https://anthropic-partners.skilljar.com/introduction-to-claude-cowork)
-2. [https://anthropic-partners.skilljar.com/claude-101](https://anthropic-partners.skilljar.com/claude-code-101)
-3. [https://www.anthropic.com/webinars/cowork-workshop-foundations](https://www.anthropic.com/webinars/cowork-workshop-foundations)
+#### [Level 1 - AI Savvy with Anthropic AIC](https://degreed.com/plan/3808539?newWindow=true) -- Completed
+1. [ai-fluency-framework-foundations](https://anthropic-partners.skilljar.com/introduction-to-claude-cowork) -- completed
+2. [claude-code-101](https://anthropic-partners.skilljar.com/claude-code-101) -- completed
+3. [cowork-workshop-foundations](https://www.anthropic.com/webinars/cowork-workshop-foundations) -- completed
 
 #### [Level 2 - AI Practitioner with Anthropic AIC](https://degreed.com/plan/3808540?newWindow=true)
 1. [claude-code-in-action](https://anthropic-partners.skilljar.com/claude-code-in-action)
